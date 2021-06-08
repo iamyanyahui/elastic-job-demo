@@ -1,0 +1,13 @@
+.classpath
+.project
+.settings
+.checkstyle
+bin
+.DS_Store
+target
+.idea
+target-eclipse
+*.iml
+log.txt
+*.log
+**/.flattened-pom.xml
