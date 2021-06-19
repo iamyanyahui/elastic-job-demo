@@ -1,7 +1,7 @@
-package com.yahui;
+package com.yahui.elasticjob;
 
-import static com.yahui.MyElasticJobConfiguration.createJobConfiguration;
-import static com.yahui.MyElasticJobConfiguration.createRegistryCenter;
+import static com.yahui.elasticjob.MyElasticJobConfiguration.createJobConfiguration;
+import static com.yahui.elasticjob.MyElasticJobConfiguration.createRegistryCenter;
 
 import com.dangdang.ddframe.job.lite.api.JobScheduler;
 

@@ -1,4 +1,4 @@
-package com.yahui;
+package com.yahui.elasticjob;
 
 import com.dangdang.ddframe.job.api.ShardingContext;
 import com.dangdang.ddframe.job.api.simple.SimpleJob;

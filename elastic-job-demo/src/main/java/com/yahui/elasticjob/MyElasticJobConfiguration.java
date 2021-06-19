@@ -1,4 +1,4 @@
-package com.yahui;
+package com.yahui.elasticjob;
 
 import com.dangdang.ddframe.job.config.JobCoreConfiguration;
 import com.dangdang.ddframe.job.config.simple.SimpleJobConfiguration;
