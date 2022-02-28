@@ -39,6 +39,7 @@ public class IndexMinQueue<T extends Comparable<T>> {
         qp[k] = 0;
     }
 
+
     public T min() {
         return items[minIndex()];
     }
