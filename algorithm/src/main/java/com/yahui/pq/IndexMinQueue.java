@@ -93,4 +93,12 @@ public class IndexMinQueue<T extends Comparable<T>> {
     private boolean less(int i, int j) {
         return items[pq[i]].compareTo(items[pq[j]]) < 0;
     }
+
+    public boolean isEmpty() {
+        return n == 0;
+    }
+
+    public boolean contains(int k) {
+        return qp[k] > 0;
+    }
 }
